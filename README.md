@@ -44,6 +44,9 @@
    - Compared training vs. validation performance to detect overfitting.
 5. **Notebook File Added:**
    - `Week-2/PlantDiseaseDetection_week_2_.ipynb`
+6. **Generated Files:** (Since these files are bigger in size (more than 25 MB) they can be uploaded)
+   - `best_model.keras`
+   - `CNN_Model.keras`
 
 ---
 
