@@ -27,6 +27,26 @@
 
 ---
 
+## 📅 Week 2 Progress (Held on: 03/03/2025)
+### ✅ Tasks Completed:
+
+1. **Data Augmentation & Preprocessing**
+   - Applied image transformations (rotation, flipping, zooming) to enhance model generalization.
+   - Improved dataset balance by generating additional training samples.
+2. **Feature Engineering**
+   - Extracted key features from images to improve classification accuracy.
+   - Analyzed the impact of color histograms and texture features on disease detection.
+3. **Model Selection & Training**
+   - Experimented with different CNN architectures to find the best-performing model.
+   - Implemented hyperparameter tuning (batch size, learning rate) for optimal performance.
+4. **Performance Evaluation**
+   - Analyzed accuracy, loss, and confusion matrices to fine-tune predictions.
+   - Compared training vs. validation performance to detect overfitting.
+5. **Notebook File Added:**
+   - `Week-2/PlantDiseaseDetection_week_2_.ipynb`
+
+---
+
 ## 🛠️ Technologies & Tools Used  
 - **Programming Language:** Python  
 - **Libraries:** TensorFlow, Keras, OpenCV, Matplotlib, Pandas, NumPy  
