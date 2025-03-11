@@ -27,7 +27,7 @@
 
 ---
 
-## 📅 Week 2 Progress (Held on: 03/03/2025)
+## 📅 Week 2 Progress (Held on: 04/03/2025)
 ### ✅ Tasks Completed:
 
 1. **Data Augmentation & Preprocessing**
